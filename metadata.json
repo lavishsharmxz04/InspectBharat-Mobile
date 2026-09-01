@@ -1,0 +1,6 @@
+{
+  "name": "GIMS Inspection",
+  "description": "Government Inspection & Monitoring System authorized field inspection application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
